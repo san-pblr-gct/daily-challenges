@@ -5,7 +5,7 @@ Aim is to solve various programming challenges/questions posted on different web
 
 |No| Date | Problems |     Solutions     |
 | :------------: | :------------: | :------------: | :----------: |
-|1|Mar 21 2017 | Count the Zero.| [Count the zero](c#/CounttheZeros.cs)|
+|1|Mar 21 2017 | Count the Zero.| [Count the zero](c%23/CounttheZeros.cs)|
 
 ## JS
 
